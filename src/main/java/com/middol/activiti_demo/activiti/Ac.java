@@ -8,5 +8,6 @@ public class Ac {
     public static void main(String[] args) {
 
         System.out.println("1234543");
+        System.out.println("master加的");
     }
 }
