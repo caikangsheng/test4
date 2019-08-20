@@ -9,5 +9,7 @@ public class Ac {
 
         System.out.println("1234543");
         System.out.println("master加的");
+        System.out.println("second加的");
+        System.out.println("second");
     }
 }
